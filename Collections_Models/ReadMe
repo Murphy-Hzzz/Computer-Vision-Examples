@@ -1,1 +1,7 @@
-1
+
+
+AlexNext:   python main.py --type_of_model Alexnet
+
+VGG19:      python main.py --type_of_model VGG19
+
+ResNet_50:  python main.py --type_of_model ResNet --resnet_type 50
